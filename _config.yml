@@ -6,12 +6,12 @@ description: A commuinity to embrace, promote and increase open-source awareness
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: REVA University, Rukmini Knowledge Park, Kattigenahalli
+city: Yelahanka, Bangalore
+state: Karnataka
+zip_code: 560 064
+country: India
+phone: +91-80-46966966
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -38,7 +38,7 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
