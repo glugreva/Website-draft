@@ -15,14 +15,21 @@
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <!-- <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul> -->
+            <div class="row">
+                <div class="8u 12u$(medium)">
+                    <header class="major">
+                        <h1>{{ page.landing-title }}</h1>
+                    </header>
+                    <div class="content">
+                        <p style="text-transform: uppercase;">{{ site.description }}</p>
+                        <!-- <ul class="actions">
+                            <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                        </ul> -->
+                    </div>
+                </div>
+                <div class="4u 12u$(medium)" >
+                    <img src="./assets/images/GLUGLogo.jpg" style="border-radius: 10px ;"  alt="logo">
+                </div>
             </div>
         </div>
     </section>
@@ -40,7 +47,7 @@
                     <h2>About Us</h2>
                 </header>
                 <p>{{ content }}</p>
-                 <ul class="actions">
+                <ul class="actions">
                     <li><a href="About us.html" class="button next">More about us</a></li>
                 </ul>
             </div>

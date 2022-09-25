@@ -35,7 +35,6 @@ nav-menu: true
 		<header class="major"><h3>The Team </h3></header>
 
 <div class="row">
-
 	<div class="box 4u 12u$(medium)">
 	<h5>PRESIDENT</h5>
 	KRITHIK GOPINATH
@@ -49,7 +48,6 @@ nav-menu: true
 	<div class="box 4u 12u$(medium)">
 	<h5>Treasurer</h5>
 	M TEJASWI</div>
-
 	<div class="box 4u 12u$(medium)"><h5>Core</h5>S.Bharath Kumar</div>
 	<div class="box 4u 12u$(medium)"><h5>Core</h5>Sangamesh.N.Math</div>
 	<div class="box 4u 12u$(medium)"><h5>Core</h5>SANJAY CHIREMATH</div>
